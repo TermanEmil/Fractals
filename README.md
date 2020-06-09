@@ -6,6 +6,6 @@ The actual code can be found [here](https://github.com/UTMUniverStuff/university
 
 # Results
 
-![](./fractal\ 400x400.gif)
+![1](./fractal%20400x400.gif)
 
-![](./fractal cos sin.gif)
+![1](./fractal%20cos%20sin.gif)
